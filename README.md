@@ -30,7 +30,7 @@ Results-driven Junior Mechatronics Engineer with hands-on research experience in
 * Machined a custom precision reductor shaft from raw stock using manual milling and turning equipment, maintaining strict dimensional tolerances of ±0.05 mm to ensure accurate mechanical fit.
 
 ## CAPSTONE PROJECT
-**Remotely Controlled Underwater Inspection Vehicle (ROV) | Project Lead**
+**Remotely Controlled Underwater Inspection Vehicle [STAROV-1] (https://github.com/geometricus-briareus/STAROV-1) | Project Lead**
 *Advised by Prof. Dr. Cenk Ulu* | September 2024 - July 2025
 * Engineered a remotely operated underwater vehicle capable of operating at depths up to 25 meters, featuring real-time video transmission to a surface desktop station and intuitive teleoperation via a game controller.
 * Integrated a 6-thruster propulsion system to achieve 4-DOF maneuverability (surge, sway, heave, and yaw), reaching horizontal speeds of 1 knot (0.514 m/s).
