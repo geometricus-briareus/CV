@@ -1,6 +1,6 @@
 # Furkan Karstarlı
 **Email:** furkankarstarli@proton.me | **Location:** Cekmekoy/Istanbul TR | **Phone:** +90-+++-+++-++-++
-[LinkedIn](#) | [GitHub](#)
+[LinkedIn](www.linkedin.com/in/furkan-karstarli-4b6599188) | [GitHub](https://github.com/geometricus-briareus)
 
 ## PROFESSIONAL SUMMARY
 Results-driven Junior Mechatronics Engineer with hands-on research experience in intelligent mechatronic systems. Experienced in developing autonomous navigation solutions utilizing ROS/C++/Python, LIDAR SLAM, and closed-loop PID control algorithms. Brings practical understanding of Design for Manufacturability (DFM), precision machining, and electromechanical integration gained within highly regulated defense environments such as TUSAŞ. Demonstrated leadership capabilities through spearheading multi-disciplinary capstone projects, mediating team challenges, and driving engineering goals to achieve a 100% project score.
