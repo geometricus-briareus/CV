@@ -44,6 +44,7 @@ Results-driven Junior Mechatronics Engineer with hands-on research experience in
 * **Languages:** Turkish, English.
 
 ## CERTIFICATES & LICENSES
-* **Commercial UAV-1 Pilot Certificate** | Sapmaz Havacılık ve İleri Teknolojiler | September 2024 | Credential ID: TR-IHAIT12177575
 * **Autonomous Driving Technologies Basic Training** | Republic Of Türkiye Ministry of Industry and Technology | March 2026 | Credential ID: 18404127337117
 * **Internship Attendee Certificate** | TUSAŞ (Turkish Aerospace Industries) | August 2025
+* **Commercial UAV-1 Pilot Certificate** | Sapmaz Havacılık ve İleri Teknolojiler | September 2024 | Credential ID: TR-IHAIT12177575
+* **Uskudar Innovation Center Education Certificate** | Haydarpaşa Mesleki ve Teknik Anadolu Lisesi | October 2021 - January 2022
